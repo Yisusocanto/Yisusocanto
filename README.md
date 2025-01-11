@@ -23,6 +23,6 @@ Soy un desarrollador junior apasionado por la tecnología y la programación. Me
 
 ## 🌟 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/Yisusocanto/proyecto1) - Descripción breve del proyecto.
+- [Gestor de Inventario](https://github.com/Yisusocanto/Gestor-inventario) - Sistema de escritorio para gestionar inventario de productos con Python
 
 ¡Gracias por visitar mi perfil! 🚀
