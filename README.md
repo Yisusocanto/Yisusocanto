@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Yisusocanto
 
 [![GitHub followers](https://img.shields.io/github/followers/Yisusocanto?label=Follow&style=social)](https://github.com/Yisusocanto)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow%20Me-blue?style=social&logo=instagram)](https://www.instagram.com/yisus_daniel1984)
 
 ## 🚀 Sobre mí
 
