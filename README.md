@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Yisusocanto
 
-<!--
-**Yisusocanto/Yisusocanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Yisusocanto?label=Follow&style=social)](https://github.com/Yisusocanto)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador junior apasionado por la tecnología y la programación. Me encanta aprender nuevas cosas y compartir mis conocimientos con la comunidad.
+
+## 🔧 Tecnologías y Herramientas
+
+- **Lenguajes:** JavaScript y Python
+- **Frameworks:** Django
+- **Herramientas:** Git y VS Code
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yisusocanto&show_icons=true&theme=radical)
+
+## 📫 Cómo contactarme
+
+- **Correo electrónico:** [yisusocanto1984@gmail.com](mailto:yisusocanto1984@gmail.com)
+
+## 🌟 Proyectos Destacados
+
+- [Proyecto 1](https://github.com/Yisusocanto/proyecto1) - Descripción breve del proyecto.
+
+¡Gracias por visitar mi perfil! 🚀
