@@ -1,28 +1,35 @@
-# 👋 ¡Hola! Soy Yisusocanto
+# 👋 Hello! I'm Yisusocanto
 
 [![GitHub followers](https://img.shields.io/github/followers/Yisusocanto?label=Follow&style=social)](https://github.com/Yisusocanto)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow%20Me-blue?style=social&logo=instagram)](https://www.instagram.com/yisus_daniel1984)
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-Soy un desarrollador junior apasionado por la tecnología y la programación. Me encanta aprender nuevas cosas y compartir mis conocimientos con la comunidad.
+I am a junior developer passionate about technology and programming. I love learning new things and sharing my knowledge with the community.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies and Tools
 
-- **Lenguajes:** JavaScript y Python
-- **Frameworks:** Django
-- **Herramientas:** Git y VS Code
+- **Languages:** JavaScript, TypeScript, and Python
+- **Frameworks:** Django, Flask, FastAPI, Express, Nextjs
+- **Tools:** Git and VS Code
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Statistics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yisusocanto&show_icons=true&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yisusocanto&show_icons=true&theme=radical)
 
-## 📫 Cómo contactarme
+## 📫 How to contact me
 
-- **Correo electrónico:** [yisusocanto1984@gmail.com](mailto:yisusocanto1984@gmail.com)
+- **Email:** [yisusocanto1984@gmail.com](mailto:yisusocanto1984@gmail.com)
 
-## 🌟 Proyectos Destacados
+## 🌟 Featured Projects
 
-- [Gestor de Inventario](https://github.com/Yisusocanto/Gestor-inventario) - Sistema de escritorio para gestionar inventario de productos con Python
+- [Pixel Reviews](https://github.com/Yisusocanto/pixel_reviews) - Video game review platform.
+- [Username Checker](https://github.com/Yisusocanto/username-checker) - 
+Web application that checks if a username is available on different platforms
+- [Smart Link](https://github.com/Yisusocanto/smart-link) - URL shortener web application
+- [Inventory Manager](https://github.com/Yisusocanto/Gestor-inventario) - Desktop system for managing product inventory with Python.
 
-¡Gracias por visitar mi perfil! 🚀
+Thank you for visiting my profile! 🚀
+
+
+Translated with DeepL.com (free version)
