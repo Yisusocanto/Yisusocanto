@@ -1,74 +1,54 @@
 # Jesús Ocanto
 
-<p align="left">
-  <strong>Full-Stack Software Engineer</strong> focused on building production-ready web applications, high-throughput REST APIs, and scalable relational data architectures.
-</p>
+**Full-Stack Software Engineer**  
+I design and build production web platforms, asynchronous backend services, and cross-platform mobile applications using **Python**, **TypeScript**, and **Go**.
 
-<p align="left">
-  <a href="https://linkedin.com/in/jesus-ocanto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yisusocanto1984@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfolio-five-drab-34.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[Portfolio](https://portfolio-five-drab-34.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jesus-ocanto) · [yisusocanto1984@gmail.com](mailto:yisusocanto1984@gmail.com)
 
 ---
 
-### 📌 Overview
+### Engineering Focus
 
-- 💼 **Primary Stack:** **FastAPI**, **NestJS / Node.js**, **React / Next.js**, and **PostgreSQL**.
-- 🛠️ **Engineering Focus:** Clean architecture, relational database modeling, containerization (`Docker`), secure authentication/authorization flows, and responsive UI design.
-- 🎯 **Current Goal:** Joining engineering teams to build performant web services, robust backends, and maintainable product features.
+- **Backend & Systems:** Designing modular REST APIs (`Router -> Service -> Repository`), asynchronous data layers (`SQLAlchemy` / `SQLModel`, `AsyncPG`), caching and rate-limiting strategies (`Redis`), and concurrent services in **Python**, **Node.js (NestJS)**, and **Go**.
+- **Frontend & Mobile:** Building fast, type-safe interfaces with **Next.js (App Router)**, **React**, **Astro**, and **React Native (Expo)** with **Tailwind CSS**.
+- **Database & Infrastructure:** Relational data modeling in **PostgreSQL**, schema migrations (`Alembic`, `Prisma`), object storage (`Cloudflare R2`), containerization (`Docker`), and automated CI/CD pipelines (`GitHub Actions`).
 
 ---
 
-### 🚀 Featured Projects
+### Selected Open-Source Projects
 
-| Project | Description | Tech Stack | Links |
+#### [Pixel Reviews (v2)](https://pixelreviews.vercel.app) — Social Discovery & Review Platform for Video Games
+Full-stack community platform re-engineered from the ground up with a decoupled architecture. Features on-demand game metadata hydration via **IGDB API v4**, 5-to-1 star rating histograms, threaded discussions, wishlists, dual JWT + Google OAuth 2.0 authentication with automatic token rotation, and a **Redis** cache-aside layer with fail-open degradation.
+- **Stack:** `Next.js 16` · `React 19` · `TypeScript` · `FastAPI` · `PostgreSQL 17` · `Redis 7` · `Cloudflare R2` · `Docker`
+- **Links:** [Live Platform](https://pixelreviews.vercel.app) · [Frontend Repo](https://github.com/Yisusocanto/pixel-reviews-frontend) · [Backend API Repo](https://github.com/Yisusocanto/pixel-reviews-api)
+
+#### [Fialo](https://github.com/Yisusocanto/fialo) — Multi-Tenant Mobile Credit & Ledger System
+Cross-platform mobile application and backend API built for local merchants to replace paper credit ledgers. Implements strict multi-tenant data isolation, role-based access control with instant session revocation, and exact decimal arithmetic (`Decimal.js`) for accounts receivable tracking.
+- **Stack:** `React Native` · `Expo` · `TypeScript` · `NestJS` · `PostgreSQL` · `Prisma` · `NativeWind`
+- **Links:** [GitHub Repository](https://github.com/Yisusocanto/fialo) · [Case Study](https://portfolio-five-drab-34.vercel.app/projects/fialo)
+
+#### [Venezuela Tasas](https://venezuela-tasas.vercel.app) & [Telegram Bot](https://github.com/Yisusocanto/venezuela-tasas-bot) — Exchange Rate Engine & Alerting System
+Resilient scraping engine, public REST API, web dashboard, and asynchronous Telegram bot delivering real-time and historical official exchange rates (USD, EUR, RUB, TRY) with scheduled daily broadcasts and PostgreSQL subscriber persistence.
+- **Stack:** `FastAPI` · `Python` · `Next.js` · `PostgreSQL` · `AsyncPG` · `Telegram API` · `Docker`
+- **Links:** [Web App](https://venezuela-tasas.vercel.app) · [Platform Repo](https://github.com/Yisusocanto/venezuela-tasas) · [Bot Repo](https://github.com/Yisusocanto/venezuela-tasas-bot)
+
+---
+
+### Commercial & Enterprise Systems (Production)
+
+| System | Overview | Architecture & Stack | Documentation |
 | :--- | :--- | :--- | :--- |
-| **Order & Inventory Management System (Todo Technology)** | End-to-end commercial management software for tracking batch production, real-time order status, and inventory workflows. | `Next.js` `FastAPI` `PostgreSQL` `Docker` `Tailwind` | Private and external Repository |
-| **Exchange Rate & Aggregation Service** | Automated rate-tracking RESTful engine featuring periodic data extraction, persistent history, and integrated bot alerting. | `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` | [Repository](https://github.com/Yisusocanto/venezuela-tasas) \| [API Docs](https://venezuela-tasas.onrender.com/redoc) |
-| **Community Gaming & Review Platform** | Community-driven content and rating platform with user authentication, role-based controls, and optimized content indexing. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | [Repository](https://github.com/Yisusocanto/pixel_reviews) \| [Live Demo](https://pixel-reviews-livid.vercel.app/) |
+| **Todo Technology — ERP / MES Platform** | End-to-end manufacturing execution system for a large-scale textile and sublimation plant. Synchronizes sales, graphic design, cutting, heat-pressing, sewing, and shipping with QR-driven stage transitions and a dynamic EAV product schema. | `FastAPI` · `Next.js` · `PostgreSQL` · `Docker` | [Read Case Study →](https://portfolio-five-drab-34.vercel.app/projects/todo-technology) |
+| **La Parada — Agro-Industrial ERP & POS** | Enterprise resource planning system for a commercial butchery and dairy processing facility. Manages raw milk reception, recipe-driven batch manufacturing with yield tracking, lot-level inventory, and bi-monetary (USD/VES) point-of-sale ledgers. | `FastAPI` · `Next.js` · `TypeScript` · `PostgreSQL` | [Read Case Study →](https://portfolio-five-drab-34.vercel.app/projects/carniceria-la-parada) |
 
 ---
 
-### 💻 Technical Skills
+### Technical Toolkit
 
-<p align="left">
-  <strong>Backend & Databases</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-</p>
-
-<p align="left">
-  <strong>Frontend & Mobile</strong><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="left">
-  <strong>Tools, Cloud & DevOps</strong><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yisusocanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
-</p>
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` · `TypeScript` · `JavaScript` · `Go (Golang)` · `SQL` |
+| **Backend** | `FastAPI` · `NestJS` · `Go (net/http, Gin/Chi)` · `Node.js` · `Express` · `SQLModel` · `SQLAlchemy 2.0` · `Prisma` |
+| **Frontend & Mobile** | `Next.js (App Router)` · `React 19` · `React Native` · `Expo` · `Astro` · `TanStack Query` · `Tailwind CSS` |
+| **Data & Storage** | `PostgreSQL` · `Redis` · `MongoDB` · `Cloudflare R2 (S3)` · `Alembic` |
+| **DevOps & Quality** | `Docker` · `Docker Compose` · `GitHub Actions` · `Pytest` · `Vitest` · `Ruff` · `Linux` |
